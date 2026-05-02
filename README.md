@@ -21,10 +21,10 @@ This project is an interactive financial dashboard built using Microsoft Excel t
 ## Dashboard Preview
 
 ### Overview
-![Dashboard](dashboard-overview.png)
+![Dashboard](dashboard1.png)
 
 ### Filtered View
-![Dashboard](dashboard-filtered-view.png)
+![Dashboard](dashboard2.png)
 
 ## Key Insights
 - Rent is the highest expense category, contributing the largest share of total spending
