@@ -1,14 +1,19 @@
 📊 Financial Performance Dashboard (Excel)
 
 📌 Overview
-This project is an interactive financial dashboard built using Microsoft Excel to analyze income, expenses, savings, and budget variance. It transforms raw financial data into meaningful insights using pivot tables, charts, and KPIs.
+
+This project is an interactive financial dashboard built using Microsoft Excel to analyze income, expenses, savings, and budget performance. It transforms raw financial data into meaningful insights using Pivot Tables, charts, and KPI metrics.
+
+🎯 Objective
+
+To track financial performance, identify spending patterns, and provide clear insights into income vs expenses using a structured dashboard.
 
 📊 Key Features
 KPI metrics: Total Income, Total Expenses, Savings, Savings %
-Expense analysis by category using Pivot Tables
+Expense breakdown by category using Pivot Tables
 Interactive slicers for dynamic filtering
 Budget vs Actual variance tracking
-Clean and structured dashboard design
+Clean and structured dashboard design for better decision-making
 
 🛠 Tools Used
 Microsoft Excel
@@ -27,13 +32,10 @@ Filtered View
 ![Dashboard](dashboard2.png)
 
 📈 Key Insights
-Rent is the highest expense category
-Discretionary spending (shopping & dining) shows occasional overspending
+Rent is the highest expense category across all transactions
+Discretionary spending (shopping and dining) shows occasional overspending
 Savings remain positive after tracking income vs expenses
-Dashboard enables quick financial decision-making
-
-## Project Structure
-- `Data` → Raw dataset containing transactions, categories, and budget values  
+Dashboard enables quick identification of financial trends and budget performancevalues  
 - `Dashboard` → Interactive dashboard with KPIs, charts, and slicers  
 
 ## Author
