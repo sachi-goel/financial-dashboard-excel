@@ -1,36 +1,36 @@
-# Financial Performance Dashboard (Excel)
+📊 Financial Performance Dashboard (Excel)
 
-## Overview
-This project is an interactive financial dashboard built using Microsoft Excel to analyze income, expenses, savings, and budget variance. It provides a clear and structured view of financial performance and supports data-driven decision making.
+📌 Overview
+This project is an interactive financial dashboard built using Microsoft Excel to analyze income, expenses, savings, and budget variance. It transforms raw financial data into meaningful insights using pivot tables, charts, and KPIs.
 
-## Features
-- KPI metrics: Total Income, Total Expenses, Savings, and Savings %
-- Expense breakdown by category using pivot tables and charts
-- Interactive slicers for filtering by category and transaction type
-- Variance analysis with conditional formatting (over/under budget)
-- Clean and structured dashboard layout for easy interpretation
+📊 Key Features
+KPI metrics: Total Income, Total Expenses, Savings, Savings %
+Expense analysis by category using Pivot Tables
+Interactive slicers for dynamic filtering
+Budget vs Actual variance tracking
+Clean and structured dashboard design
 
-## Tools & Techniques
-- Microsoft Excel
-- Pivot Tables
-- Slicers
-- Data Visualization (Bar Charts)
-- Formulas (SUMIF, IF)
-- Conditional Formatting
+🛠 Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Conditional Formatting
+Data Visualization
 
-## Dashboard Preview
+📷 Dashboard Preview
 
-### Overview
+Overview
 ![Dashboard](dashboard1.png)
 
-### Filtered View
+Filtered View
 ![Dashboard](dashboard2.png)
 
-## Key Insights
-- Rent is the highest expense category, contributing the largest share of total spending
-- Overspending identified in discretionary categories such as shopping
-- Positive savings maintained after tracking total income and expenses
-- Dashboard enables quick identification of spending patterns and financial trends
+📈 Key Insights
+Rent is the highest expense category
+Discretionary spending (shopping & dining) shows occasional overspending
+Savings remain positive after tracking income vs expenses
+Dashboard enables quick financial decision-making
 
 ## Project Structure
 - `Data` → Raw dataset containing transactions, categories, and budget values  
