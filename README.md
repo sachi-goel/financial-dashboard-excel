@@ -4,25 +4,25 @@
 This project is an interactive financial dashboard built using Microsoft Excel to track income, expenses, savings, and budget variance.
 
 ## Features
-- KPI metrics (Total Income, Expenses, Savings, Variance)
-- Dynamic charts (Expense breakdown, spending trends)
+- KPI metrics (Income, Expenses, Savings, Savings %)
+- Expense analysis by category
 - Pivot tables and slicers for interactivity
-- Variance analysis with conditional formatting
+- Conditional formatting for variance tracking
 
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Slicers
 - Data Visualization
-- Advanced formulas (SUMIF, IF, VLOOKUP)
+- Formulas (SUMIF, IF)
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## Key Insights
-- Identified highest expense categories
-- Tracked overspending patterns
-- Enabled data-driven financial decisions
-
-## File
-- Financial-Dashboard-Excel.xlsx
+- Rent is the highest expense category
+- Identified overspending in shopping
+- Maintained positive savings
 
 ## Author
 Sachi Goel
